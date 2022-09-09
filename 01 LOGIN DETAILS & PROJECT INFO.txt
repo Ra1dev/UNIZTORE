@@ -20,5 +20,5 @@ Arvind Chaudhary   21CDO1064
 Email:    harryden@gmail.com
 Password: password
 
-**Project Folder should not be changed from "Ecommerce-app-h" to others
+**Project Folder should not be changed from "UNIZTORE" to others
 without making changes in the code**
